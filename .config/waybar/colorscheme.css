@@ -1,0 +1,25 @@
+@define-color background #231e26;
+@define-color background-sec rgba(38, 31, 38, 1);
+@define-color background-ter rgba(43, 43, 30, 1);
+@define-color background-qua rgba(38, 21, 21, 1);
+
+@define-color foreground #c5c8c6;
+@define-color text-shadow rgba(19, 20, 19, 0.9);
+
+@define-color primary #c0a6a6;
+@define-color secondary #babeb7;
+@define-color ternary #F1C6FF;
+
+@define-color dark-orange #733410;
+@define-color orange #b25215;
+@define-color light-orange #d1844e;
+@define-color dark-yellow #b25215;
+@define-color yellow #b25215;
+@define-color light-yellow #c9b9b4;
+
+@define-color material-light #a19472;
+@define-color material-dark #b06179;
+@define-color material-shadow #151218;
+
+@define-color alert #A54242;
+@define-color disabled #9098a0;
